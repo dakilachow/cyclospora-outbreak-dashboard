@@ -12,7 +12,7 @@ A single-page epidemiological dashboard visualizing the 2026 domestic Cyclospora
 - **Reference briefing panel**: a static, CDC-sourced summary (not a live AI/search tool — see *Data & Limitations* below)
 ## Why I built it
  
-This started as an exercise in taking a currently unfolding public health event and figuring out how to make it legible, understanding what a public health analyst or journalist covering an outbreak actually needs to see at a glance, and how to visualize uncertainty (like the ~5,100 cases still pending confirmation) honestly rather than smoothing it away.
+This started as an exercise in taking a currently unfolding public health event and figuring out how to make it legible, understanding what a public health analyst or journalist covering an outbreak actually needs to see at a glance, and how to visualize uncertainty (like the thousands of cases still pending confirmation) honestly rather than smoothing it away.
  
 ## Data & Sources
  
